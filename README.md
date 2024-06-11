@@ -1,4 +1,15 @@
-## Hi there 👋
+# Hello, I am Pramathesh 👋
+## Thanks for stopping by. Here's a little bit about myself...
+
+- 😄 My Pronouns are: He/His/Him
+- 🔭 I’m currently working as a software development engineer @Sap Labs...
+   - 👯I'm always open for suggestion and building new stuff.
+   - 💬I'm looking forward for tech gossip's.
+- 🧑🏻‍🏫 I am currenly learning
+   - Exporing Modern Data Stack (dbt, Airbyte, Databricks)
+   - Azure Cloud (Already worked with AWS & GCP)
+   - How to architectect better data system
+
 
 <!--
 **Pramathesh690/Pramathesh690** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -11,6 +22,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
+
 - ⚡ Fun fact: ...
 -->
